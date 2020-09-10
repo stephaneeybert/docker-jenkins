@@ -43,8 +43,6 @@ Pull the images
 docker pull thalasoft.com:5000/fail2ban;
 ```
 
-Read and follow all the INSTALLATION.md files of the project
-
 Access the server
 ```  
 http://dev.jenkins:8082
